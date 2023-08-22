@@ -1,0 +1,15 @@
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\bin\Debug\net6.0\C# 10 Foundamentals Practice.exe
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\bin\Debug\net6.0\C# 10 Foundamentals Practice.deps.json
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\bin\Debug\net6.0\C# 10 Foundamentals Practice.runtimeconfig.json
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\bin\Debug\net6.0\C# 10 Foundamentals Practice.dll
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\bin\Debug\net6.0\C# 10 Foundamentals Practice.pdb
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.csproj.AssemblyReference.cache
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.AssemblyInfoInputs.cache
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.AssemblyInfo.cs
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.csproj.CoreCompileInputs.cache
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.dll
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\refint\C# 10 Foundamentals Practice.dll
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.pdb
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\C# 10 Foundamentals Practice.genruntimeconfig.cache
+C:\Users\ValentynTukov\source\repos\C# 10 Foundamentals Practice\C# 10 Foundamentals Practice\obj\Debug\net6.0\ref\C# 10 Foundamentals Practice.dll
