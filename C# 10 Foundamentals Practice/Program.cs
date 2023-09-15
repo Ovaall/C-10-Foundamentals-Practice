@@ -54,5 +54,201 @@
 //Console.ReadLine();
 
 
+//8. DateTime
+
+//DateTime startDate = new DateTime(2022, 03, 05);
+//DateTime endDate = DateTime.Today;
+//Console.WriteLine("startDate: " + startDate);
+//Console.WriteLine("endDate: " + endDate);
+//Console.ReadLine();
+
+//9. Converting long to var
+
+//long myLargeValue = 123456789;
+//int intValue = (int)myLargeValue;
+//Console.WriteLine("intValue = " + intValue);
+//Console.ReadLine();
+
+//10. Implicit typing
+
+//var a = 10;
+//Console.WriteLine("var a = 10; in the statement, a is an intager value");
+//Console.ReadLine();
+
+//11. Exercise 02 - Sum calculation
+
+//Console.WriteLine("Enter a first number:");
+//string stringValue1 = Console.ReadLine();
+
+//Console.WriteLine("Enter a second number:");
+//string stringValue2 = Console.ReadLine();
+
+//int intValue1 = int.Parse(stringValue1);
+//int intValue2 = int.Parse(stringValue2);
+
+//var sum = intValue1 + intValue2;
+//Console.WriteLine($"sum: {sum}");
+//Console.ReadLine();
 
 
+//12. Checkpoint 16 - Relational operators 1
+
+//using System;
+
+//Console.WriteLine("type your age");
+//var a = Console.ReadLine();
+//int age = int.Parse(a);
+//bool validAge = (age >= 18);
+// if (validAge == true)
+//{
+//    Console.WriteLine("You are adult");
+//}
+// else
+//{
+//   Console.WriteLine("Sorry, you are not adult");
+//}
+//Console.ReadLine();
+
+//13. Checkpoint 20 - Conditional 2
+
+//Console.WriteLine("type your age");
+//var a = Console.ReadLine();
+//int age = int.Parse(a);
+//if (age > 18)
+//{
+//    Console.WriteLine("You are eligible");
+//    Console.WriteLine("Congratulations");
+//}
+//else
+//{
+//    Console.WriteLine("You aren't eligible");
+//    Console.WriteLine("Sorry");
+//}
+//Console.ReadLine();
+
+//14. Exercise 03 - Conditionals
+
+
+//Console.WriteLine("Enter a first number:");
+//string stringValue1 = Console.ReadLine();
+
+//Console.WriteLine("Enter a second number:");
+//string stringValue2 = Console.ReadLine();
+
+//int intValue1 = int.Parse(stringValue1);
+//int intValue2 = int.Parse(stringValue2);
+
+//if (intValue1 == intValue2)
+//{
+//    Console.WriteLine("The values are equal!");
+//}
+//else if (intValue1 < intValue2)
+//{
+//    Console.WriteLine("The first value is smaller!");
+//}
+//else
+//{
+//    Console.WriteLine("The second value is smaller!");
+//}
+
+//Console.ReadLine();
+
+//15. While loop
+
+//int i = 1;
+//while (i < 11)
+//{
+//    Console.WriteLine(i);
+//    i++;
+//  }
+
+//Console.WriteLine();
+
+//16. Exercise 04 - Loops
+
+//Console.WriteLine("Enter a number:");
+//int sum = 0;
+
+//string stringValue = Console.ReadLine();
+//int startValue = int.Parse(stringValue);
+
+//for (int i = startValue; i > 0; i--)
+//{
+//    sum += i;
+
+//}
+//Console.WriteLine("The sum is: " + sum);
+
+//Console.ReadLine();
+
+
+//17. Do while loop
+
+//int i = 0;
+
+//do
+//{
+//    Console.WriteLine(i);
+//    i++;
+//} while (i < 10);
+
+
+//18. Checkpoint 23 - for
+
+//for (int i = 0; i < 10; i++)
+//{
+//    Console.WriteLine(i);
+//}
+
+
+//19. Methods
+
+
+//Console.WriteLine("Enter a first number:");
+//string stringValue1 = Console.ReadLine();
+
+//Console.WriteLine("Enter a second number:");
+//string stringValue2 = Console.ReadLine();
+
+
+//int a = int.Parse(stringValue1);
+//int b = int.Parse(stringValue2);
+
+//int sum = AddNumbers(a, b);
+
+//Console.WriteLine($"The sum is : {sum}");
+
+//static int AddNumbers (int a, int b)
+//{
+//    return a + b;
+//}
+
+//Console.ReadLine();
+
+//20. Exercise 05 - Methods
+
+
+//Console.WriteLine("Enter a first number:");
+//string stringValue1 = Console.ReadLine();
+
+//Console.WriteLine("Enter a second number:");
+//string stringValue2 = Console.ReadLine();
+
+
+//int a = int.Parse(stringValue1);
+//int b = int.Parse(stringValue2);
+
+//int result = MultiplyTwoNumbers(a, b);
+
+
+//static int MultiplyTwoNumbers(int a, int b)
+//    {
+//        return a * b;
+//    }
+
+
+
+//Console.WriteLine($"The result is : {result}");
+//Console.ReadLine();
+
+//21. 
