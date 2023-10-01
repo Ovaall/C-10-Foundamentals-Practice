@@ -251,4 +251,44 @@
 //Console.WriteLine($"The result is : {result}");
 //Console.ReadLine();
 
-//21. 
+//21. Adding a halper file
+
+//using C__10_Foundamentals_Practice;
+
+//int amount = 5;
+
+//int months = 11;
+
+// int yearlyWage = Utilities.CalculateYearlyWage(amount, months);
+
+//Console.WriteLine($"Yearly wage : {yearlyWage}");
+
+//Console.ReadLine();
+
+
+// 22. Checkpoint 26 - Utility class
+
+//using C__10_Foundamentals_Practice;
+
+
+//int a = 5;
+//int b = 3;
+
+//int sum = Utilities.SubtractTwoNumbers(a, b);
+
+//Console.WriteLine($"The result is : {sum}");
+
+//Console.ReadLine();
+
+// Exercise 06 - Methods and their parameters
+
+//using C__10_Foundamentals_Practice;
+
+//int yearlyWage;
+
+//yearlyWage = Utilities.CalculateYearlyWage(1000);
+
+//Console.WriteLine($"Yearly Wage = {yearlyWage}");
+
+
+//Console.ReadLine();
